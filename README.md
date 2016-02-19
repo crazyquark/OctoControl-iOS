@@ -29,5 +29,5 @@ Screenshots: http://imgur.com/a/ZdYoU
 # Credit
 [Starscream](https://github.com/daltoniam/starscream) used for Websockets
 
-# Compatability
+# Compatibility
 iOS 8+
